@@ -1,5 +1,5 @@
-# Meme-generator
+# About
 Generates meme pictures based on a prompt
 
-## Libaries/Utilities:
+## Libraries/Utilities:
 - React
